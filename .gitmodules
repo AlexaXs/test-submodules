@@ -1,3 +1,6 @@
 [submodule "vscode"]
 	path = vscode
 	url = git@github.com:microsoft/vscode.git
+[submodule "nodegit"]
+	path = nodegit
+	url = git@github.com:nodegit/nodegit.git
