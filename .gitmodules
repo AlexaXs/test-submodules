@@ -1,0 +1,3 @@
+[submodule "test-lfs-subm"]
+	path = test-lfs-subm
+	url = git@bitbucket.org:alexaxs2/test-lfs-subm.git
